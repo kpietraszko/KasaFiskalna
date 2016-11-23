@@ -1,0 +1,6 @@
+D:\Krzysztof Pietraszko\KasaFiskalna\KasaFiskalna\bin\Debug\KasaFiskalna.exe.config
+D:\Krzysztof Pietraszko\KasaFiskalna\KasaFiskalna\bin\Debug\KasaFiskalna.exe
+D:\Krzysztof Pietraszko\KasaFiskalna\KasaFiskalna\bin\Debug\KasaFiskalna.pdb
+D:\Krzysztof Pietraszko\KasaFiskalna\KasaFiskalna\obj\Debug\KasaFiskalna.csprojResolveAssemblyReference.cache
+D:\Krzysztof Pietraszko\KasaFiskalna\KasaFiskalna\obj\Debug\KasaFiskalna.exe
+D:\Krzysztof Pietraszko\KasaFiskalna\KasaFiskalna\obj\Debug\KasaFiskalna.pdb
